@@ -19,7 +19,7 @@ public class PainelAutores extends JPanel {
     private void iniciarComponentes() {
 
         //objetos
-        jlAutores = new JLabel("AUTORES:");
+        jlAutores = new JLabel("AUTORES DO PROJETO:");
         jlBento = new JLabel("Matheus Bento");
         jlFernando = new JLabel("Fernando Teixeira");
         jlGiovana = new JLabel("Giovana Rufino");
